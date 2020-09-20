@@ -1,2 +1,2 @@
 ## Countdowntimer
-this is a simple countdown project using #javascript and #sass . 
+this is a simple countdown project using javascript and sass . 
