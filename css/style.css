@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+* {
+    box-sizing : border-box;
+}
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Acme';
+    background-image: url('../images/snow.jpg');
+    background-size: cover;
+    background-position: center center;
+    min-height: 100vh;
+
+}
+h1 {
+    font-size: 4rem;
+    margin-top: 9rem;
+    color: rgb(155, 152, 152);
+}
+.countdown-container {
+    display: flex;
+}
+.big-text {
+    font-size: 4rem;
+    line-height: 1;
+    margin: 0 2rem;
+    color: royalblue;
+}
+.count-timer {
+    text-align: center
+}
+.count-timer span {
+    font-size: 1.20rem;
+    color:rgb(155, 152, 152);
+}
+
+
